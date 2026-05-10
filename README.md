@@ -1,8 +1,23 @@
-- 👋 Hi, I’m @Nero265
-- 🌱 I’m currently learning C#,Java,C++
-- 📫 How to reach me: nenadb2005@gmail.com
+# Nenad Bogdanović
 
-<!---
-Nero265/Nero265 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computer Science student @ Faculty of Electronic Engineering, Niš, Serbia  
+Interested in networking, cybersecurity, and programming.
+
+## Focus Areas
+- Network security & forensics
+- Binary exploitation & reverse engineering
+- Web security
+
+## Certifications
+- CCNA trilogy (Cisco Networking Academy)
+- Introduction to Cybersecurity
+- Linux Essentials
+- Red Hat OpenShift / Podman (DO188)
+
+## Featured Projects
+- [CTF-Writeups](https://github.com/Nero265/CTF-Writeups) — 6 security challenges across forensics, pwn, web, RE and steganography
+- [TMDB-Service-Stress-Tester](https://github.com/Nero265/TMDB-Service-Stress-Tester) — Python load testing tool
+
+📫 nenadb2005@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/nenad-bogdanovic/)  
+🏅 [Certifications on Credly](https://www.credly.com/users/nenad-bogdanovic.d861507c/badges)
