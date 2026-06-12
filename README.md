@@ -1,17 +1,18 @@
 # Nenad Bogdanović
 
 Computer Science student @ Faculty of Electronic Engineering, Niš, Serbia  
-Interested in networking, cybersecurity, and programming.
+Focused on software development with strong interest in C#/.NET and backend engineering.
 
 ## Focus Areas
-- Network security & forensics
-- Binary exploitation & reverse engineering
-- Web security
-- .NET
+- .NET development (C#)
+- Object-Oriented Programming & SOLID principles
+- Design Patterns
+- Databases (SQL, Entity Framework)
+- API development & concurrency
 
 ## Certifications
+- Foundational C# (in progress)
 - CCNA trilogy (Cisco Networking Academy)
-- Introduction to Cybersecurity
 - Linux Essentials
 - Red Hat OpenShift / Podman (DO188)
 - Python Essentials 1
@@ -19,8 +20,8 @@ Interested in networking, cybersecurity, and programming.
 - Serbian Cybersecurity Challenge 2026 - finalist
 
 ## Featured Projects
-- [CTF-Writeups](https://github.com/Nero265/CTF-Writeups) — multiple security challenges across forensics, pwn, web, RE and steganography
-- [TMDB-Service-Stress-Tester](https://github.com/Nero265/TMDB-Service-Stress-Tester) — Python load testing tool
+- [tmdb-movie-search-server](https://github.com/Nero265/tmdb-movie-search-server) — Concurrent C# web server for searching movies via TMDB API with thread‑safe caching.
+- [tmdb-movie-search-server-v2](https://github.com/Nero265/tmdb-movie-search-server-v2) — Refactored C# web server using async/await, task‑based concurrency, thread‑safe caching, and cache stampede prevention.
 
 📫 nenadb2005@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/nenad-bogdanovic/)  
