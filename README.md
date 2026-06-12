@@ -16,7 +16,7 @@ Interested in networking, cybersecurity, and programming.
 - Red Hat OpenShift / Podman (DO188)
 - Python Essentials 1
 - Python Essentials 2
-- Serbian Cybersecurity Challaege 2026 - finalist
+- Serbian Cybersecurity Challenge 2026 - finalist
 
 ## Featured Projects
 - [CTF-Writeups](https://github.com/Nero265/CTF-Writeups) — multiple security challenges across forensics, pwn, web, RE and steganography
