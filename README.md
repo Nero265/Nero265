@@ -1,27 +1,48 @@
 # Nenad Bogdanović
 
-Computer Science student @ Faculty of Electronic Engineering, Niš, Serbia  
-Focused on software development with strong interest in C#/.NET and backend engineering.
+Computer Science student @ Faculty of Electronic Engineering, Niš  
+Interested in backend engineering (C#/.NET) and cybersecurity (network security, CTF competitions).
 
-## Focus Areas
-- .NET development (C#)
+---
+
+## .NET Development Focus
+- C#/.NET development
 - Object-Oriented Programming & SOLID principles
 - Design Patterns
 - Databases (SQL, Entity Framework)
 - API development & concurrency
 
-## Certifications
-- Foundational C# (in progress)
-- CCNA trilogy (Cisco Networking Academy)
-- Linux Essentials
-- Red Hat OpenShift / Podman (DO188)
-- Python Essentials 1
-- Python Essentials 2
-- Serbian Cybersecurity Challenge 2026 - finalist
+### Featured Projects
+- [tmdb-movie-search-server](https://github.com/Nero265/tmdb-movie-search-server) — Concurrent C# web server for searching movies via TMDB API with thread‑safe caching.  
+- [tmdb-movie-search-server-v2](https://github.com/Nero265/tmdb-movie-search-server-v2) — Refactored C# web server using async/await, task‑based concurrency, thread‑safe caching, and cache stampede prevention.  
 
-## Featured Projects
-- [tmdb-movie-search-server](https://github.com/Nero265/tmdb-movie-search-server) — Concurrent C# web server for searching movies via TMDB API with thread‑safe caching.
-- [tmdb-movie-search-server-v2](https://github.com/Nero265/tmdb-movie-search-server-v2) — Refactored C# web server using async/await, task‑based concurrency, thread‑safe caching, and cache stampede prevention.
+---
+
+## Networking & Cybersecurity Focus
+- Network configuration & troubleshooting (CCNA)
+- Network security & forensics
+- Binary exploitation & reverse engineering
+- Web security
+- Linux administration & virtualization
+
+### Featured Projects
+- [CTF-Writeups](https://github.com/Nero265/CTF-Writeups) — Security challenges across forensics, pwn, web, reverse engineering, and steganography.  
+- [TMDB-Service-Stress-Tester](https://github.com/Nero265/TMDB-Service-Stress-Tester) — Python load testing tool for API performance testing.  
+
+---
+
+## Certifications
+- Network Basics - Cisco Networking Academy
+- CCNA: Introduction to Networks – Cisco Networking Academy  
+- CCNA: Switching, Routing, and Wireless Essentials – Cisco Networking Academy  
+- CCNA: Enterprise Networking, Security and Automation – Cisco Networking Academy  
+- Foundational C# (in progress)  
+- Linux Essentials – Cisco Networking Academy  
+- Red Hat OpenShift / Podman (DO188) – Red Hat Academy  
+- Python Essentials 1 & 2 – Cisco Networking Academy  
+- Serbian Cybersecurity Challenge 2026 – finalist  
+
+---
 
 📫 nenadb2005@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/nenad-bogdanovic/)  
