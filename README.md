@@ -43,7 +43,7 @@ Interested in backend engineering (C#/.NET) and cybersecurity (network security,
 - Red Hat OpenShift / Podman (DO188) – Red Hat Academy  
 - Python Essentials 1 & 2 – Cisco Networking Academy  
 - Serbian Cybersecurity Challenge 2026 – finalist  
-
+- Endpoint Security - Cisco Networking Academy
 ---
 
 📫 nenadb2005@gmail.com  
