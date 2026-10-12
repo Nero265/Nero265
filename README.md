@@ -17,6 +17,7 @@ Interested in backend engineering (C#/.NET) and cybersecurity (network security,
 - [tmdb-movie-search-server](https://github.com/Nero265/tmdb-movie-search-server) — Concurrent C# web server for searching movies via TMDB API with thread‑safe caching.  
 - [tmdb-movie-search-server-v2](https://github.com/Nero265/tmdb-movie-search-server-v2) — Refactored C# web server using async/await, task‑based concurrency, thread‑safe caching, and cache stampede prevention.
 - [reactive-football-api](https://github.com/Nero265/reactive-football-api) — Real-time football lineup tracker combining Rx.NET reactive pipelines with Akka.NET actor model, featuring multithreaded scheduling and an HTTP server.
+- [network-security-toolkit](https://github.com/Nero265/network-security-toolkit) — Async port scanner built with C# and ASP.NET Core, using SQLite, xUnit unit and integration tests, and GitHub Actions CI (in development).
 
 ---
 
@@ -44,6 +45,7 @@ Interested in backend engineering (C#/.NET) and cybersecurity (network security,
 - Python Essentials 1 & 2 – Cisco Networking Academy  
 - Serbian Cybersecurity Challenge 2026 – finalist  
 - Endpoint Security - Cisco Networking Academy
+
 ---
 
 📫 nenadb2005@gmail.com  
